@@ -1,0 +1,23 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.columna1{
+    flex: 1;
+    padding: 10px;
+}
+
+.columna2{
+    flex: 1;
+    padding: 10px;
+}
+
+.columna3{
+    flex: 1;
+    padding: 10px;
+}
+
+/*imagenes*/
+
+/*texto*/
