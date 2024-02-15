@@ -31,13 +31,15 @@
 .dec{
     border-left: 2px solid black;
     border-right: 2px solid black;
+    align-items: center;
 }
 
 /*imagenes*/
 img{
     border-radius: 50%;
-    width: 60%;
-    margin-left: 80px;
+    width: 40%;
+    margin-left: 120px;
+    align-self: center;
 }
 
 /*texto*/
@@ -45,19 +47,22 @@ img{
     text-align: center;
 }
 
-.tit2{
-    text-align: center;
-}
 
 h1{
     font-family: 'Lucida Sans';
 }
 
 h2{
+    text-align: center;
     font-family: 'Lucida Sans';
     color: rgb(154, 0, 0);
     border-bottom: 4px rgb(221, 193, 133) solid;
     text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Lucida Sans';
 }
 
 p{
