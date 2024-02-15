@@ -6,18 +6,65 @@
 .columna1{
     flex: 1;
     padding: 10px;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    
 }
 
 .columna2{
     flex: 1;
     padding: 10px;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .columna3{
     flex: 1;
     padding: 10px;
+    align-items: center;
+    
+   
+}
+
+.dec{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
 }
 
 /*imagenes*/
+img{
+    border-radius: 50%;
+    width: 60%;
+    margin-left: 80px;
+}
 
 /*texto*/
+.titulo{
+    text-align: center;
+}
+
+.tit2{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lucida Sans';
+}
+
+h2{
+    font-family: 'Lucida Sans';
+    color: rgb(154, 0, 0);
+    border-bottom: 4px rgb(221, 193, 133) solid;
+    text-align: center;
+}
+
+p{
+    font-family: 'Lucida Sans';
+    margin: 20px;
+}
+
+.l1{
+    border-bottom: 2px darkgray dashed;
+}
