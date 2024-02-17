@@ -34,13 +34,30 @@
     align-items: center;
 }
 
+
 /*imagenes*/
-img{
+.img1{
     border-radius: 50%;
-    width: 40%;
-    margin-left: 120px;
-    align-self: center;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 50%;
+   
+    
 }
+
+.imgs{
+    margin-top: 20%;
+}
+
+.imgss{
+    margin-top:-2%;
+    width: 8%;
+    position:absolute;
+
+   
+}
+    
+
 
 /*texto*/
 .titulo{
